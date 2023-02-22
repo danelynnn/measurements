@@ -1,0 +1,5 @@
+mongodb access
+danelynnn
+s99UMbDSv5zZRzSV
+
+mongodb+srv://danelynnn:s99UMbDSv5zZRzSV@cluster0.qucl8rc.mongodb.net/test
