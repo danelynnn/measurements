@@ -3,3 +3,6 @@ danelynnn
 s99UMbDSv5zZRzSV
 
 mongodb+srv://danelynnn:s99UMbDSv5zZRzSV@cluster0.qucl8rc.mongodb.net/test
+
+authtoken
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzcxMDgzMTYsImlhdCI6MTY3NzEwNTkxNiwic3ViIjoiNjNmNDIzMWMxNTQ5ZjgxOTVhZTYwNmFmIn0.okkXHRiu3nwDFvYiY_HWUotoYdwhjKRVfocfxfSt6CY
